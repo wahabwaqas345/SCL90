@@ -14,7 +14,7 @@ const QuestionCard = ({
     { label: "Mild", value: 1 },
     { label: "Moderate", value: 2 },
     { label: "Heavy", value: 3 },
-    { label: "Very Severe", value: 4 },
+    { label: "Severe", value: 4 },
   ];
 
   return (
